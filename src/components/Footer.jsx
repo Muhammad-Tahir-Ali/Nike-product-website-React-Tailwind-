@@ -67,7 +67,7 @@ const Footer = () => {
                   <li>
                     <a
                       className="text-blueGray-600 hover:text-red-500 block pb-1"
-                      href="https://www.creative-tim.com/presentation?ref=njs-profile"
+                      href=""
                     >
                       About Us
                     </a>
@@ -75,7 +75,7 @@ const Footer = () => {
                   <li>
                     <a
                       className="text-blueGray-600 hover:text-red-500 block pb-1"
-                      href="https://blog.creative-tim.com?ref=njs-profile"
+                      href=""
                     >
                       Blog
                     </a>
@@ -83,7 +83,7 @@ const Footer = () => {
                   <li>
                     <a
                       className="text-blueGray-600 hover:text-red-500 block pb-1"
-                      href="https://www.github.com/creativetimofficial?ref=njs-profile"
+                      href=""
                     >
                       Github
                     </a>
@@ -91,7 +91,7 @@ const Footer = () => {
                   <li>
                     <a
                       className="text-blueGray-600 hover:text-red-500 block pb-1"
-                      href="https://www.creative-tim.com/bootstrap-themes/free?ref=njs-profile"
+                      href=""
                     >
                       Free Products
                     </a>
@@ -106,7 +106,7 @@ const Footer = () => {
                   <li>
                     <a
                       className="text-blueGray-600 hover:text-red-500 block pb-1"
-                      href="https://creative-tim.com/terms?ref=njs-profile"
+                      href=""
                     >
                       Terms & Conditions
                     </a>
@@ -114,7 +114,7 @@ const Footer = () => {
                   <li>
                     <a
                       className="text-blueGray-600 hover:text-red-500 block pb-1"
-                      href="https://creative-tim.com/privacy?ref=njs-profile"
+                      href=""
                     >
                       Privacy Policy
                     </a>
@@ -122,7 +122,7 @@ const Footer = () => {
                   <li>
                     <a
                       className="text-blueGray-600 hover:text-red-500 block pb-1"
-                      href="https://creative-tim.com/contact-us?ref=njs-profile"
+                      href=""
                     >
                       Contact Us
                     </a>
@@ -148,7 +148,7 @@ const Footer = () => {
               </a>
               All Rights Reserved by Nike
               <a
-                href="https://www.creative-tim.com?ref=njs-profile"
+                href=""
                 className="text-blueGray-500 hover:text-blueGray-800"
               >
             
